@@ -1,5 +1,4 @@
-# Exchange-Rate-Forecast-USD-INR
-modelling and forecasting exchange rates
+# Exchange-Rate-Forecast-INR-USD
 
 Objective:
 The objective of this project was to develop robust models for predicting exchange rates (INR/USD) using three different methods and subsequently evaluating their performance metrics.
